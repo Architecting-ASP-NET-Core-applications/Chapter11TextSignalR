@@ -1,0 +1,4 @@
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR\Chapter11TextSignalR.Client\wwwroot\appsettings.Development.json
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR\Chapter11TextSignalR.Client\wwwroot\appsettings.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

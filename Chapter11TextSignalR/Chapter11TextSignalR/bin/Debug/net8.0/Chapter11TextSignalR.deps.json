@@ -326,7 +326,10 @@
           "Microsoft.AspNetCore.SignalR.Client": "8.0.6"
         },
         "runtime": {
-          "Chapter11TextSignalR.Client.dll": {}
+          "Chapter11TextSignalR.Client.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Chapter11TextSignalR.Shared/1.0.0": {
@@ -334,7 +337,10 @@
           "Microsoft.AspNetCore.Components.Web": "8.0.5"
         },
         "runtime": {
-          "Chapter11TextSignalR.Shared.dll": {}
+          "Chapter11TextSignalR.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

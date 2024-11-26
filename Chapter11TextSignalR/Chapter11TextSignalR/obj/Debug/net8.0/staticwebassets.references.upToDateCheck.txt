@@ -1,0 +1,2 @@
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR.Shared\obj\Debug\net8.0\staticwebassets.build.json
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR\Chapter11TextSignalR.Client\obj\Debug\net8.0\staticwebassets.build.json

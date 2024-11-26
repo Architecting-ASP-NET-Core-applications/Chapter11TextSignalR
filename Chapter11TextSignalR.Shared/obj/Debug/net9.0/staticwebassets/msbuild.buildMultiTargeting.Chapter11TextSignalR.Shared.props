@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Chapter11TextSignalR.Shared.props" />
+</Project>

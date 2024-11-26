@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj": {}
+    "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj": {}
   },
   "projects": {
-    "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj": {
+    "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj",
+        "projectUniqueName": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj",
         "projectName": "Chapter11TextSignalR.Shared",
-        "projectPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj",
+        "projectPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\obj\\",
+        "outputPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -31,8 +31,8 @@
           "https://georgfischer.pkgs.visualstudio.com/GF.MS.LAS.Machine/_packaging/GF.MS.LAS.Machine/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -44,16 +44,17 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -72,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj": {
+    "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj",
+        "projectUniqueName": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj",
         "projectName": "Chapter11TextSignalR.Client",
-        "projectPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj",
+        "projectPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\obj\\",
+        "outputPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,7 +95,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -103,11 +104,11 @@
           "https://georgfischer.pkgs.visualstudio.com/GF.MS.LAS.Machine/_packaging/GF.MS.LAS.Machine/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj": {
-                "projectPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj"
+              "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj": {
+                "projectPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj"
               }
             }
           }
@@ -120,31 +121,32 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )",
+              "version": "[9.0.0, )",
               "autoReferenced": true
             },
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.5, )",
+              "version": "[9.0.0, )",
               "autoReferenced": true
             }
           },
@@ -162,7 +164,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.5, 8.0.5]"
+              "version": "[9.0.0, 9.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -170,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -179,14 +181,14 @@
         }
       }
     },
-    "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj": {
+    "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj",
+        "projectUniqueName": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj",
         "projectName": "Chapter11TextSignalR",
-        "projectPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj",
+        "projectPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\obj\\",
+        "outputPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -197,7 +199,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -206,14 +208,14 @@
           "https://georgfischer.pkgs.visualstudio.com/GF.MS.LAS.Machine/_packaging/GF.MS.LAS.Machine/nuget/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj": {
-                "projectPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj"
+              "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj": {
+                "projectPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR.Shared\\Chapter11TextSignalR.Shared.csproj"
               },
-              "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj": {
-                "projectPath": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj"
+              "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj": {
+                "projectPath": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\Chapter11TextSignalR.Client.csproj"
               }
             }
           }
@@ -226,20 +228,21 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.AspNetCore.SignalR.Client": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -261,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

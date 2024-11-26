@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Chapter11TextSignalR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Chapter11TextSignalR.yjv3gasfl3.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Chapter11TextSignalR.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Chapter11TextSignalR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Chapter11TextSignalR.props",
+      "PackagePath": "build\\Chapter11TextSignalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Chapter11TextSignalR.props",
+      "PackagePath": "buildMultiTargeting\\Chapter11TextSignalR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Chapter11TextSignalR.props",
+      "PackagePath": "buildTransitive\\Chapter11TextSignalR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,20 +1,20 @@
 {
   "Files": [
     {
-      "Id": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\obj\\Debug\\net8.0\\compressed\\ty1l1zy9zh.gz",
-      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
-    },
-    {
-      "Id": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "D:\\SOURCES\\Libro\\Chapter11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\wwwroot\\appsettings.json",
+      "Id": "D:\\SOURCES\\Libro\\_GITHUB\\11\\Chapter11TextSignalR\\Chapter11TextSignalR\\Chapter11TextSignalR.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Chapter11TextSignalR.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Chapter11TextSignalR.Client.Microsoft.AspNetCore.StaticWebAssets.props",

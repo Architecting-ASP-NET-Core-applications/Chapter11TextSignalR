@@ -1,0 +1,7 @@
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR\Chapter11TextSignalR\wwwroot\bootstrap\bootstrap.min.css.map
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR\Chapter11TextSignalR\wwwroot\app.css
+D:\SOURCES\Libro\_GITHUB\11\Chapter11TextSignalR\Chapter11TextSignalR\Chapter11TextSignalR\wwwroot\bootstrap\bootstrap.min.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png
